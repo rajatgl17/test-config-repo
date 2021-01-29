@@ -1,7 +1,9 @@
 mongo:
   cz:
     uri:
-    host:
-  pl:
-    uri:
-    host:
+      in:
+        uri:
+        host:
+      dk:
+        uri:
+        host:
